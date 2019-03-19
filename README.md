@@ -8,7 +8,7 @@ by Adrián Font
 
 ## Index
 
-- Introduction
+- [Introduction](https://github.com/AdrianFR99/RPG-progression-system/#Introduction)
 
 - Progression systems
 
@@ -176,8 +176,8 @@ And to finish with this section I would like to mention the narrative in progres
 By doing some determined actions player gain XP/EXP (experience) point which allows them to level up, by doing so the player abilities get stronger and also increases the quantity of XP the player needs to get to the next level (threshold) and the level the player currently has, represent his/her skills/experience.
 
 <p align="center">
-
-![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/RuneScape.png?raw=true)
+  
+  <img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/RuneScape.png?raw=true" width="400">
 
 </p>
 
