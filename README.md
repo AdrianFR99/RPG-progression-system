@@ -6,7 +6,7 @@ by Adrián Font
 
 
 
-Index
+## Index
 
 -Introduction
 
@@ -34,15 +34,15 @@ Index
 
 
 
-Introduction
+## Introduction
 
 In this research article, I will be talking about progression systems, specifically, what is a progression system and the most common types that we can find and also Why these systems became so popular. I will be also exploring the math behind these structures like progression curves (the behavior of them) and some formulas to create basic progression curves will be also included. And as the maths are not all the developers need to create great progression systems I will include some important game designs concepts which are useful to bear in mind when creating one.
 
 
 
-Progression systems
+## Progression systems
 
-What is a progression system?
+### What is a progression system?
 
 A progression system is simply a combination of mechanics which forces the player to make actions with determined goals, and these must complete them in order to move forward. The player will be able to carry out activities during the whole game and along the way, he might be able to unlock new content and new knowledge to learn (new abilities, more quest, etc).
 
@@ -106,7 +106,7 @@ This is the main elements to take into account when creating a progression syste
 
 
 
-Why do they work?
+## Why do they work?
 
 Nowadays most of the new games have a progression system, and not only from  RPG game which are the ones from the progression system are born (Original D&amp;D), most genres have implemented these systems, and currently, it seems difficult for a game to work without them. But why do these systems are so popular?
 
@@ -116,21 +116,7 @@ As for the developer&#39;s progressions systems helps them to control the flow o
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-What makes a great progression system?
+## What makes a great progression system?
 
 We have seen which are the key elements that compose a good progression system, but that&#39;s not all, there are a lot of game design techniques to understand in order to improve the experience.
 
@@ -139,21 +125,6 @@ Before getting in what makes a good progression system, us as developers, we sho
 RPG games usually have a lot of content, which makes the chance of having a repetitive experience (not always has to be like that,but as more content a game has, the more content the developers have to create, and therefore, more chance end up in a repetitive loop), meaning that the game arrives at a point where the only thing the player does is to level up doing always the same, e.g. make the player replay a dungeon or the same dungeon with slight changes(&quot; a new one&quot;)  in order to win EXP and level up, at the end developer are trying to enlarge the game experience without adding new content.
 
 Another common mistake which I found, is that when you manage to add new content to the game, this is not really part of the experience, is something to tag on into the game in order make the player come back or stay longer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Sometimes these mistakes are not only done to enlarge the game lifespan, usually, are committed when trying to disguise the lack of gameplay. If your gameplay is not interesting enough or seem to lack something, by adding new mechanics is not going to solve it, you are only disguising it, instead of doing this, try to understand by the gameplay is not working, check the pre-production phase of the development, the game pillars, etc.
@@ -167,11 +138,6 @@ With a general idea of the type of bad game design decisions for a progression s
 For those who play RPG game, how many time do you spend thinking on your build? Shall I get my character to a DPS or a healer? Increase my melee damage or my magic damage? good progression system allows players to take meaningful decisions to plan out strategies, these systems have something that we can call **long term strategical systems,** which as I said let&#39;s the player to plan strategies for hours, even days. And so if we want this systems to work developers have to reward those players that choose to go through the strategic problem, but also let the player backtrack if they are not happy with the outcome (players are able to change/reset your character talents if they wish so).
 
 
-
-
-
-
-
 Another Incredible good decision in order to implement a progression system is to let the player to have a self-regulated learning curve, and how do we do that?
 
 Remember when we talk about mechanics progression, we can use this in order to introduce element one by one and so allowing players to familiarize with the different elements, which could be abilities, therefore player being able to control and master their abilities at the pace they wish, controlling their own learning curve.
@@ -182,11 +148,11 @@ And to finish with this section I would like to mention the narrative in progres
 
 
 
-Types of progression systems
+## Types of progression systems
 
 
 
-Level based progression:
+### Level based progression:
 
 By doing some determined actions player gain XP/EXP (experience) point which allows them to level up, by doing so the player abilities get stronger and also increases the quantity of XP the player needs to get to the next level (threshold) and the level the player currently has, represent his/her skills/experience.
 
@@ -194,25 +160,12 @@ _&quot;RuneScape&quot;_
 
 
 
-Training/Play-Style progression:
+### Training/Play-Style progression:
 
 This system increases the attributes power the more that is used and is not driven by XP, the more distance you run the more stamina, the more kill with one-handed weapons the more strength and abilities with those... A good example of this kind of system implemented in a game could be The Elder Scrolls v: Skyrim.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Skill points progression:
+### Skill points progression:
 
 In this system, player improve their skills by allocating points and usually, they are able to spend it as they please which gives to the player more control over the characters growth, e.g  3 points to improve dexterity, 10 to improve archery, etc.
 
@@ -226,15 +179,7 @@ Currently, most of the game doesn&#39;t only have one of these systems but multi
 
 
 
-
-
-
-
-
-
-
-
-The math behind it
+## The math behind it
 
 So if we want to create a decent progression system at least we need to have a basic knowledge on the maths that are behind it. Understanding and knowing them will allow us as developers to have control on how the player will go through the game, when he/she is going to level up, at which phase of the game will have all the abilities unlocked?,...and also being able to perform any change for balancing needs, simple to improve the experience, because at the end is what most matters, the player to have a good experience.
 
@@ -244,7 +189,7 @@ So now we will take a look to the the different progressions curves,
 
 
 
-Ratios
+### Ratios
 
 If  we are going to study the different functions, it could be useful to have a tool which helps us to perceive the changes in the player progression faster and easily ,for that we are going to use some ratios.
 
@@ -269,12 +214,9 @@ To determine this ratio we just need the total XP required for the n level and t
 
 
 
-
-
-
 This ratio shows us how the XP needed for a level increases. If the value is large means that the quantity of experience the player needs to level up increases significantly during the game progression.
 
-Curves of progression:
+### Curves of progression:
 
 So now let going to take a look to some of the most use progressions curves, see how they behave and how this a affects the progression system.
 
@@ -384,7 +326,7 @@ There are plenty of more types of curves which we could use as progression syste
 
 
 
-Breakpoints &amp; Power Spikes
+## Breakpoints &amp; Power Spikes
 
 Breakpoints are places in your game when a major difference occurs based on a minor mathematical differences (is not necessary a bug it could be a feature), this ones are not easy to detect (usually are discovered when testing the game), let me show you a clear example:
 
