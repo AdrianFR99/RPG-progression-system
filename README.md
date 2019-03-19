@@ -44,7 +44,7 @@ A progression system is simply a combination of mechanics which forces the playe
 
  In order to have a successful progression system, there are some key element to take into account, which are:
 
--Game Mechanics:
+#### Game Mechanics:
 
 great mechanics which makes the player feel satisfaction when interacting with the different elements of your game such as weapons, abilities, and when doing so, developer have to control and understanding over the learning curve and avoiding to overwhelm the player, in order to do this you could use what is called mechanics progression, which summarising  is a way to control the way the player learns the different elements of the game over time, there are two types of mechanics progression:
 
@@ -71,19 +71,19 @@ _&quot;Talent trees of World of Warcraft &quot;_
 
 </p>
 
--Experience thresholds duration:
+#### Experience thresholds duration:
 
  As a developer, you want to have as most control of possible on how much time the player might be taken when leveling up, completing a quest, stage,...
 
 And use in order to improve the experience and balancing matters, you don&#39;t want the player to be an unnecessary time in a mission or trying to level up, this can drive the player to frustration.
 
--Essential Rewards:
+#### Essential Rewards:
 
 If you have any type of progression system you need to reward the players that go through them, and this reward are essential in order to make the player feel that he/she is progressing, I&#39;m talking about game modes, upgrades, unlockable content, in general, new content.
 
 
 
--Secondary rewards:
+#### Secondary rewards:
 
 the secondary reward are those ones that satisfy our visual and aural stimulus, in other words, good visual and auditive effects which focus the player&#39;s attention and  of course, improve the experience, e.g. when playing FPS (First Person Shooters) if you kill an enemy with a headshot a sound will play, this sound is a reward which gives positive feedback to the player and gives a satisfactory stimulus too.
 
@@ -97,7 +97,7 @@ _&quot;Battlefield v headshot example&quot;_
 
 
 
--Difficulty:
+#### Difficulty:
 
 Understanding the elements that affect your games difficulty are key in order to provide a good experience, damage dealt by enemies, weapons stats, etc, control, test and balance the different values in your game and you will be able to improve the experience.
 
@@ -256,7 +256,7 @@ This ratio shows us how the XP needed for a level increases. If the value is lar
 
 So now let going to take a look to some of the most use progressions curves, see how they behave and how this a affects the progression system.
 
-1.Exponential progression
+#### 1.Exponential progression
 
 Let&#39;s use an example, we are going to take a look to the next function
 
@@ -304,7 +304,7 @@ Also as the levels experience rises exponentially  this means that the rewards g
 
 
 
-2.Polynomial Progression
+#### 2.Polynomial Progression
 
 Here we are going to use a function from a dreamcast game called _Armada:Metro3D_
 which is:
@@ -349,7 +349,7 @@ The problem with this type of system is that when the player arrives to the uppe
 
 
 
-3.Other progression curves
+#### 3.Other progression curves
 
 Fibonacci Progression:
 
