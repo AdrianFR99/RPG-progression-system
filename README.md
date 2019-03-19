@@ -28,6 +28,7 @@ by Adrián Font
 
 - [Breakpoints & Power spikes](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#breakpoints--power-spikes)
 
+-[Webgraphy]()
 
 
 ## Introduction
@@ -404,3 +405,15 @@ Breakpoint come from multiple systems overlapping (monsters, levels ,weapons...)
 Then we have power spikes,not to confuse with the breakdowns, the difference between them is that the power spikes are intentionally introduced by the developers and this one gives a boost of power larger than the normal ones.This power boost are part of the game (in D&amp;D some spells don&#39;t get strong enough)
 
 When trying to control these two game design element it easier to work with power spikes, due to the breakpoint are unintentionally placed, created from how the math of your game interacts with the systems this one has.
+
+
+# Webgraphy
+
+* [Progression and emergence](http://blog.rpgmakerweb.com/design/progression-and-emergence-in-rpgs/)
+* [Skill progression in RPGs based on play style](https://www.gamasutra.com/blogs/AxelCholewa/20120717/174261/Skill_progression_in_RPGs_based_on_play_style.php)
+* [How to make an RPG](http://howtomakeanrpg.com/a/how-to-make-an-rpg-levels.html)
+* [Only a game](https://onlyagame.typepad.com/only_a_game/2006/08/mathematics_of_.html)
+* [Level up](https://medium.com/gameful-design/level-up-the-role-of-progression-for-gameful-design-ce7a87e2b70)
+* [How To Balance An RPG](https://kotaku.com/how-to-balance-an-rpg-1625516832)
+* [BreakPoints](https://www.youtube.com/watch?v=A_e_qu9ghHk)
+* [Progression Systems E.C](https://www.youtube.com/watch?v=S5camMoNw-o)
