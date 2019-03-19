@@ -123,7 +123,7 @@ RPG games usually have a lot of content, which makes the chance of having a repe
 Another common mistake which I found, is that when you manage to add new content to the game, this is not really part of the experience, is something to tag on into the game in order make the player come back or stay longer
 
 
-<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/experience.png?raw=true" width="500">
+<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/experience.png?raw=true" width="300">
 
 Sometimes these mistakes are not only done to enlarge the game lifespan, usually, are committed when trying to disguise the lack of gameplay. If your gameplay is not interesting enough or seem to lack something, by adding new mechanics is not going to solve it, you are only disguising it, instead of doing this, try to understand by the gameplay is not working, check the pre-production phase of the development, the game pillars, etc.
 
@@ -202,7 +202,7 @@ This ratio is obtained by dividing the XP required to reach one level by the XP 
 
 
 
-<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/basic%20ratio.png?raw=true" width="300">
+<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/basic%20ratio.png?raw=true" width="150">
 
 
 Where LVL functions return the XP in a determined level (LVL( **n** ) returns the XP in the **n** level ).
@@ -215,7 +215,7 @@ When obtaining the basic ratio we will see that the lower the number obtained th
 
 To determine this ratio we just need the total XP required for the n level and the total XP required for the n+1 level, then divide them with each other:
 
-<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/total%20ratio.png?raw=true" width="300">
+<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/total%20ratio.png?raw=true" width="100">
 
 This ratio shows us how the XP needed for a level increases. If the value is large means that the quantity of experience the player needs to level up increases significantly during the game progression.
 
@@ -227,7 +227,7 @@ So now let going to take a look to some of the most use progressions curves, see
 
 Let&#39;s use an example, we are going to take a look to the next function
 
-<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Exponential%20equation.png?raw=true" width="300">
+<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Exponential%20equation.png?raw=true" width="150">
 
 If we use this function to extract to some values with its correspondent graphic we have the following data(in this case i will show you the first 15 lvl I think there&#39;s no need to extend to much this interval).
 
@@ -269,7 +269,7 @@ Also as the levels experience rises exponentially  this means that the rewards g
 Here we are going to use a function from a dreamcast game called _Armada:Metro3D_
 which is:
 
-<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/polynomial%20equation.png?raw=true" width="300">
+<img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/polynomial%20equation.png?raw=true" width="150">
 
 | LVL | XP | TOTAL RATIO | BASIC RATIO |
 | --- | --- | --- | --- |
