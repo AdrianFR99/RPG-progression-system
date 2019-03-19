@@ -239,7 +239,7 @@ If  we are going to study the different functions, it could be useful to have a 
 
 
 
-Basic ratio:
+#### Basic ratio
 
 This ratio is obtained by dividing the XP required to reach one level by the XP required to reach the previous level.
 
@@ -255,7 +255,7 @@ When obtaining the basic ratio we will see that the lower the number obtained th
 
 
 
- Total ratio:
+ #### Total ratio:
 
 To determine this ratio we just need the total XP required for the n level and the total XP required for the n+1 level, then divide them with each other:
 
