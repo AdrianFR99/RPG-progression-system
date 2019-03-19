@@ -53,10 +53,12 @@ A progression system is simply a combination of mechanics which forces the playe
 great mechanics which makes the player feel satisfaction when interacting with the different elements of your game such as weapons, abilities, and when doing so, developer have to control and understanding over the learning curve and avoiding to overwhelm the player, in order to do this you could use what is called mechanics progression, which summarising  is a way to control the way the player learns the different elements of the game over time, there are two types of mechanics progression:
 
 1. Some mechanics are unavailable at first and will be introduced progressively when playing the game
+
 ![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Game%20Mechanics.png?raw=true)
 _&quot;Talent trees of World of Warcraft &quot;_
 
 2. All the mechanics are introduced at first but developers use the gameplay in order to induce them. An example of games which have this system will be the games developed by FromSoftware (Dark souls saga and  bloodborne)
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Dark%20Souls.png?raw=true)
 
 _&quot;Saga Dark Souls&quot;_
 
@@ -79,15 +81,7 @@ If you have any type of progression system you need to reward the players that g
 the secondary reward are those ones that satisfy our visual and aural stimulus, in other words, good visual and auditive effects which focus the player&#39;s attention and  of course, improve the experience, e.g. when playing FPS (First Person Shooters) if you kill an enemy with a headshot a sound will play, this sound is a reward which gives positive feedback to the player and gives a satisfactory stimulus too.
 
 
-
-
-
-
-
-
-
-
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/battlefield.png?raw=true)
 
 
 
@@ -114,7 +108,7 @@ The reason is that is useful for the players and the developers, let me explain,
 
 As for the developer&#39;s progressions systems helps them to control the flow of the game, to balance it and modify it as they want (e.g. levels and experience point good tools for that ). In that way, developers are more accurate in creating a better experience, and better control in the player&#39;s actions.
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/flow.png?raw=true)
 
 ## What makes a great progression system?
 
@@ -126,6 +120,7 @@ RPG games usually have a lot of content, which makes the chance of having a repe
 
 Another common mistake which I found, is that when you manage to add new content to the game, this is not really part of the experience, is something to tag on into the game in order make the player come back or stay longer
 
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/experience.png?raw=true)
 
 Sometimes these mistakes are not only done to enlarge the game lifespan, usually, are committed when trying to disguise the lack of gameplay. If your gameplay is not interesting enough or seem to lack something, by adding new mechanics is not going to solve it, you are only disguising it, instead of doing this, try to understand by the gameplay is not working, check the pre-production phase of the development, the game pillars, etc.
 
@@ -137,6 +132,7 @@ With a general idea of the type of bad game design decisions for a progression s
 
 For those who play RPG game, how many time do you spend thinking on your build? Shall I get my character to a DPS or a healer? Increase my melee damage or my magic damage? good progression system allows players to take meaningful decisions to plan out strategies, these systems have something that we can call **long term strategical systems,** which as I said let&#39;s the player to plan strategies for hours, even days. And so if we want this systems to work developers have to reward those players that choose to go through the strategic problem, but also let the player backtrack if they are not happy with the outcome (players are able to change/reset your character talents if they wish so).
 
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Reset%20abilities.png?raw=true)
 
 Another Incredible good decision in order to implement a progression system is to let the player to have a self-regulated learning curve, and how do we do that?
 
@@ -156,20 +152,22 @@ And to finish with this section I would like to mention the narrative in progres
 
 By doing some determined actions player gain XP/EXP (experience) point which allows them to level up, by doing so the player abilities get stronger and also increases the quantity of XP the player needs to get to the next level (threshold) and the level the player currently has, represent his/her skills/experience.
 
-_&quot;RuneScape&quot;_
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/RuneScape.png?raw=true)
 
+_&quot;RuneScape&quot;_
 
 
 ### Training/Play-Style progression:
 
 This system increases the attributes power the more that is used and is not driven by XP, the more distance you run the more stamina, the more kill with one-handed weapons the more strength and abilities with those... A good example of this kind of system implemented in a game could be The Elder Scrolls v: Skyrim.
 
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Skyrim.png?raw=true)
 
 ### Skill points progression:
 
 In this system, player improve their skills by allocating points and usually, they are able to spend it as they please which gives to the player more control over the characters growth, e.g  3 points to improve dexterity, 10 to improve archery, etc.
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Blodborne.png?raw=true)
 
 _&quot;Borderlands hunter skill tree&quot;_
 
@@ -199,7 +197,7 @@ Basic ratio:
 
 This ratio is obtained by dividing the XP required to reach one level by the XP required to reach the previous level.
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/basic%20ratio.png?raw=true)
 
 Where LVL functions return the XP in a determined level (LVL( **n** ) returns the XP in the **n** level ).
 
@@ -211,7 +209,7 @@ When obtaining the basic ratio we will see that the lower the number obtained th
 
 To determine this ratio we just need the total XP required for the n level and the total XP required for the n+1 level, then divide them with each other:
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/total%20ratio.png?raw=true)
 
 
 This ratio shows us how the XP needed for a level increases. If the value is large means that the quantity of experience the player needs to level up increases significantly during the game progression.
@@ -224,7 +222,7 @@ So now let going to take a look to some of the most use progressions curves, see
 
 Let&#39;s use an example, we are going to take a look to the next function
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Exponential%20equation.png?raw=true)
 
 If we use this function to extract to some values with its correspondent graphic we have the following data(in this case i will show you the first 15 lvl I think there&#39;s no need to extend to much this interval).
 
@@ -250,7 +248,7 @@ If we use this function to extract to some values with its correspondent graphic
 
 
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Exponential%20progression.png?raw=true)
 
 
 
@@ -267,10 +265,9 @@ Also as the levels experience rises exponentially  this means that the rewards g
 2.Polynomial Progression
 
 Here we are going to use a function from a dreamcast game called _Armada:Metro3D_
-
 which is:
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/polynomial%20equation.png?raw=true)
 
 | LVL | XP | TOTAL RATIO | BASIC RATIO |
 | --- | --- | --- | --- |
@@ -290,7 +287,7 @@ which is:
 | 14 | 21952 | 1,23 | 1,15 |
 | 15 | 27000 | 1,21 | 1,14 |
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/polynomial%20curve.png?raw=true)
 
 As we can see in the polynomial progression the ratios are no longer constant values, and both of the progressions ration decline as the player levels up (indeed is a property of these kind of systems),but the total ratio declines slowly than the basic one.This means that the difference of XP increases get lower as the systems progresses .
 
@@ -332,7 +329,7 @@ Breakpoints are places in your game when a major difference occurs based on a mi
 
 Imagine that we have a linear progression system:
 
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/linear%20curve.png?raw=true)
 
 Here the player has default melee damage of 100 and has to fight a monster of 160 HP (Health Points). The player melee attack increase 20 points per level (as it is a linear function the values are constant), meaning that the first two levels the player will have to hit two times the enemy to kill it, this seems all right doesn&#39;t, but the problem here is not a matter of numbers but of experience , it might look good but feels bad.
 
