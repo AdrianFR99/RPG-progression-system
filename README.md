@@ -56,9 +56,11 @@ great mechanics which makes the player feel satisfaction when interacting with t
 
 </p>
 
+<p style="text-align: center;">
 
-_&quot;Talent trees of World of Warcraft &quot;_
+"Talent trees of World of Warcraft"
 
+</p>
 
 
 2. All the mechanics are introduced at first but developers use the gameplay in order to induce them. An example of games which have this system will be the games developed by FromSoftware (Dark souls saga and  bloodborne)
@@ -67,9 +69,16 @@ _&quot;Talent trees of World of Warcraft &quot;_
 
 <img  src="https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Dark%20Souls.png?raw=true" width="600">
 
- _&quot;Saga Dark Souls&quot;_
-
 </p>
+
+<p style="text-align: center;">
+
+"Saga Dark Souls"
+  
+ </p>
+ 
+
+
 
 #### Experience thresholds duration:
 
@@ -93,8 +102,11 @@ the secondary reward are those ones that satisfy our visual and aural stimulus, 
 
 </p>
 
-_&quot;Battlefield v headshot example&quot;_
+<p style="text-align: center;">
 
+"Battlefield v headshot example"
+
+</p>
 
 
 #### Difficulty:
@@ -177,8 +189,9 @@ By doing some determined actions player gain XP/EXP (experience) point which all
 
 </p>
 
-_&quot;RuneScape&quot;_
-
+<p style="text-align: center;">
+"RuneScape"
+</p>
 
 ### Training/Play-Style progression:
 
@@ -200,8 +213,9 @@ In this system, player improve their skills by allocating points and usually, th
 
 </p>
 
-_&quot;Borderlands hunter skill tree&quot;_
-
+<p style="text-align: center;">
+"Borderlands hunter skill tree"
+</p>
 
 
 Currently, most of the game doesn&#39;t only have one of these systems but multiple at the same time with slight changes in each one in order to work, as some of the last examples shown.You could have a leveling up system that instead of increasing your abilities/ attributes when the player levels up, grants you a certain number of skill points which will allow you to purchase new abilities or improve the ones the player already has.
