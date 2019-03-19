@@ -28,7 +28,7 @@ by Adrián Font
 
 - [Breakpoints & Power spikes](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#breakpoints--power-spikes)
 
--[Webgraphy]()
+- [Webgraphy](https://github.com/AdrianFR99/RPG-progression-system/tree/gh-pages#webgraphy)
 
 
 ## Introduction
