@@ -2,25 +2,25 @@
 
 by Adrián Font
 
-"I am Adrian Font, a student of the Bachelor&#39;s Degree in Video Games by UPC at CITM. This content is generated for the second year&#39;s subject Project 2, under the supervision of lecturer Ricard Pillosu";
+"I am [Adrian Font](https://www.linkedin.com/in/adri%C3%A1n-font-romero-669a1a158/), a student of [the Bachelor&#39;s Degree in Video Games](https://www.citm.upc.edu/ing/estudis/graus-videojocs/) by UPC at CITM. This content is generated for the second year&#39;s subject Project 2, under the supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu)";
 
 
 
 ## Index
 
--Introduction
+- Introduction
 
--Progression systems
+- Progression systems
 
--What is a progression system?
+- What is a progression system?
 
--Why does it work?
+- Why does it work?
 
--Types of progression systems
+- Types of progression systems
 
--What makes a good progression system?
+- What makes a good progression system?
 
--The math behind it
+- The math behind it
 
    -ratios
 
@@ -28,9 +28,9 @@ by Adrián Font
 
 - Breakpoints
 
--Power spikes
+- Power spikes
 
--Conclusion
+- Conclusion
 
 
 
@@ -53,7 +53,7 @@ A progression system is simply a combination of mechanics which forces the playe
 great mechanics which makes the player feel satisfaction when interacting with the different elements of your game such as weapons, abilities, and when doing so, developer have to control and understanding over the learning curve and avoiding to overwhelm the player, in order to do this you could use what is called mechanics progression, which summarising  is a way to control the way the player learns the different elements of the game over time, there are two types of mechanics progression:
 
 1. Some mechanics are unavailable at first and will be introduced progressively when playing the game
-
+![](https://github.com/AdrianFR99/RPG-progression-system/blob/master/Graphical%20resources/Game%20Mechanics.png?raw=true)
 _&quot;Talent trees of World of Warcraft &quot;_
 
 2. All the mechanics are introduced at first but developers use the gameplay in order to induce them. An example of games which have this system will be the games developed by FromSoftware (Dark souls saga and  bloodborne)
