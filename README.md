@@ -8,27 +8,27 @@ by Adrián Font
 
 ## Index
 
-- [Introduction](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#introduction)
+- [Introduction](https://adrianfr99.github.io/RPG-progression-system/#introduction)
 
-- [Progression systems](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#progression-systems)
+- [Progression systems](https://adrianfr99.github.io/RPG-progression-system/#progression-systems)
 
-- [What is a progression system?](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#what-is-a-progression-system)
+- [What is a progression system?](https://adrianfr99.github.io/RPG-progression-system/#what-is-a-progression-system)
 
-- [Why do they work?](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#why-do-they-work)
+- [Why do they work?](https://adrianfr99.github.io/RPG-progression-system/#why-do-they-work)
 
-- [What makes a good progression system?](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#what-makes-a-great-progression-system)
+- [What makes a good progression system?](https://adrianfr99.github.io/RPG-progression-system/#what-makes-a-great-progression-system)
 
-- [Types of progression systems](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#types-of-progression-systems)
+- [Types of progression systems](https://adrianfr99.github.io/RPG-progression-system/#types-of-progression-systems)
 
-- [The math behind it](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#the-math-behind-it)
+- [The math behind it](https://adrianfr99.github.io/RPG-progression-system/#the-math-behind-it)
 
-   * [ratios](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#ratios)
+   * [ratios](https://adrianfr99.github.io/RPG-progression-system/#ratios)
 
-   * [curves of progression](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#curves-of-progression)
+   * [curves of progression](https://adrianfr99.github.io/RPG-progression-system/#curves-of-progression)
 
-- [Breakpoints & Power spikes](https://github.com/AdrianFR99/RPG-progression-system/blob/gh-pages/README.md#breakpoints--power-spikes)
+- [Breakpoints & Power spikes](https://adrianfr99.github.io/RPG-progression-system/#breakpoints--power-spikes)
 
-- [Webgraphy](https://github.com/AdrianFR99/RPG-progression-system/tree/gh-pages#webgraphy)
+- [Webgraphy](https://adrianfr99.github.io/RPG-progression-system/#webgraphy)
 
 
 ## Introduction
